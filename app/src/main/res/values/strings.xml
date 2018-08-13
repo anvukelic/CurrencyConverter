@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="btn_submit_text">Submit</string>
+    <string name="from">From</string>
+    <string name="value">Insert value to convert</string>
+    <string name="result_label">Result</string>
+    <string name="to">To</string>
+</resources>
